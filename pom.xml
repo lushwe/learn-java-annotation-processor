@@ -46,7 +46,7 @@
                         <configuration>
                             <proc>only</proc>
                             <annotationProcessors>
-                                <annotationProcessor>com.lushwe.HelloAnnotationProcessor</annotationProcessor>
+                                <annotationProcessor>com.lushwe.processor.HelloAnnotationProcessor</annotationProcessor>
                             </annotationProcessors>
                         </configuration>
                     </execution>
