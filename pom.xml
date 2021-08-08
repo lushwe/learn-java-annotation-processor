@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.lushwe</groupId>
-    <artifactId>learn-java-annatation-processor</artifactId>
+    <artifactId>learn-java-annotation-processor</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>learn-java-annatation-processor</name>
+    <name>learn-java-annotation-processor</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
